@@ -1,0 +1,82 @@
+Conexão com o Neo4j estabelecida com sucesso!
+
+Escolha uma opção:
+1. Adicionar nova pessoa
+2. Listar todas as pessoas
+3. Buscar pessoa
+4. Atualizar idade da pessoa
+5. Deletar pessoa
+6. Criar relacionamento de amizade
+7. Deletar todas as pessoas
+8. Sair
+Digite o número da opção: 1
+Digite o nome da pessoa: Heuryk Wylk
+Digite a idade da pessoa: 18
+Pessoa Heuryk Wylk criada com sucesso.
+
+Escolha uma opção:
+1. Adicionar nova pessoa
+2. Listar todas as pessoas
+3. Buscar pessoa
+4. Atualizar idade da pessoa
+5. Deletar pessoa
+6. Criar relacionamento de amizade
+7. Deletar todas as pessoas
+8. Sair
+Digite o número da opção: 1
+Digite o nome da pessoa: Gustavo Folena
+Digite a idade da pessoa: 26
+Pessoa Gustavo Folena criada com sucesso.
+
+Escolha uma opção:
+1. Adicionar nova pessoa
+2. Listar todas as pessoas
+3. Buscar pessoa
+4. Atualizar idade da pessoa
+5. Deletar pessoa
+6. Criar relacionamento de amizade
+7. Deletar todas as pessoas
+8. Sair
+Digite o número da opção: 4
+Digite o nome da pessoa para atualizar: Heuryk Wylk
+Digite a nova idade: 40
+Idade de Heuryk Wylk atualizada para 40.
+
+Escolha uma opção:
+1. Adicionar nova pessoa
+2. Listar todas as pessoas
+3. Buscar pessoa
+4. Atualizar idade da pessoa
+5. Deletar pessoa
+6. Criar relacionamento de amizade
+7. Deletar todas as pessoas
+8. Sair
+Digite o número da opção: 6
+Digite o nome da primeira pessoa: Heuryk Wylk
+Digite o nome da segunda pessoa: Gustavo Folena
+Relacionamento de amizade criado entre Heuryk Wylk e Gustavo Folena.
+
+Escolha uma opção:
+1. Adicionar nova pessoa
+2. Listar todas as pessoas
+3. Buscar pessoa
+4. Atualizar idade da pessoa
+5. Deletar pessoa
+6. Criar relacionamento de amizade
+7. Deletar todas as pessoas
+8. Sair
+Digite o número da opção: 7
+Tem certeza de que deseja deletar todas as pessoas? (s/n): s
+Todas as pessoas foram deletadas com sucesso.
+
+Escolha uma opção:
+1. Adicionar nova pessoa
+2. Listar todas as pessoas
+3. Buscar pessoa
+4. Atualizar idade da pessoa
+5. Deletar pessoa
+6. Criar relacionamento de amizade
+7. Deletar todas as pessoas
+8. Sair
+Digite o número da opção: 8
+Encerrando o programa.
