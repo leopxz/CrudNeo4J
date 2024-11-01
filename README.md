@@ -26,7 +26,7 @@ O arquivo teste_crud_realizado.text contém exemplos de testes já realizados co
 
 ## Estrutura
 A estrutura do projeto é composta pelos seguintes arquivos:
-
-Pipfile e Pipfile.lock: arquivos de configuração para gerenciar as dependências do projeto com pipenv.
-crud_neo4j.py: script principal contendo as funções de CRUD para interação com o banco de dados Neo4j.
-teste_crud_realizado.text: arquivo de texto contendo exemplos de testes realizados e resultados das operações.
+<br>
+Pipfile e Pipfile.lock: arquivos de configuração para gerenciar as dependências do projeto com pipenv.<br>
+crud_neo4j.py: script principal contendo as funções de CRUD para interação com o banco de dados Neo4j.<br>
+teste_crud_realizado.text: arquivo de texto contendo exemplos de testes realizados e resultados das operações.<br>
